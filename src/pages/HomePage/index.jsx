@@ -1,10 +1,10 @@
-import Header from "../../components/Header";
-import Menu from "../../components/Menu";
 import styles from "./HomePage.module.scss";
-import Banner from "../../components/Banner";
-import Footer from "../../components/Footer";
-import Galery from "../../components/Galery";
-import Populares from "../../components/Populares";
+import Header from "components/Header";
+import Menu from "components/Menu";
+import Banner from "components/Banner";
+import Footer from "components/Footer";
+import Galery from "components/Galery";
+import Populares from "components/Populares";
 
 export default function HomePage() {
   return (

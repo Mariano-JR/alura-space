@@ -1,7 +1,7 @@
 import React from "react";
 import icones from "./icones.json";
 import styles from "./Menu.module.scss";
-import Icone from "../Icone";
+import Icone from "components/Icone";
 
 export default function Menu() {
   return (
