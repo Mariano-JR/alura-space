@@ -16,7 +16,7 @@ export default function Populares() {
                 )
             })}
         </ul>
-        <Button/>
+        <Button> Ver mais fotos </Button>
     </aside>
   )
 }
